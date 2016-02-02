@@ -1,0 +1,13 @@
+p { 
+backgruond-color: #ab0115;
+line-height: 175%;
+padding: 3em;
+}
+ul { 
+font-size:1.3em; 
+padding: 0;
+-webkit-margin-after: 0;
+}
+li { 
+line-height: 1.5em;
+}
