@@ -1,1 +1,21 @@
+h1 { 
+color: yellow;
+}
 
+p { 
+color: #333;
+}
+
+footer { 
+background-color: purple;
+color: #000;
+font-size: 9px; 
+line-height: 150%;
+}
+
+@media (min-width: 76em) {
+footer {
+background-color: transparent;
+color: #aaa;
+}
+}/*1260*/
